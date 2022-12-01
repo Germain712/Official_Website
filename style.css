@@ -66,6 +66,10 @@ h3 {
   width: 400px;
 }
 
+.team-box p {
+  line-height: 30px;
+}
+
 .team-box img {
   object-fit: cover;
   max-width: 200px;
