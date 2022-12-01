@@ -67,3 +67,7 @@ h3 {
   padding: 20px;
   width: 400px;
 }
+
+.team-box img {
+  max-width: 200px;
+}
