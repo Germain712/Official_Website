@@ -72,3 +72,18 @@ h3 {
   height: 190px;
   border-radius: 50%;
 }
+.team-box h4 {
+  font-size: 30px;
+}
+
+.team-box h5 {
+  font-size: 14px;
+}
+
+footer {
+  padding: 175px;
+  background: black;
+  color: white;
+  font-size: 20px;
+  text-align: center;
+}
