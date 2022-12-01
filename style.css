@@ -50,3 +50,12 @@ h3 {
   background-size: cover;
   padding: 100px;
 }
+
+.the-team {
+  display: flex 1px solid red;
+  border: 1px solid red;
+}
+
+.team-box {
+  border: 1px solid red;
+}
