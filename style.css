@@ -54,14 +54,12 @@ h3 {
 .the-team {
   display: flex;
   justify-content: center;
-  border: 1px solid red;
 }
 
 .team-box {
   text-align: center;
   margin: 50px;
   color: white;
-  border: 1px solid red;
   background-color: black;
   opacity: 0.8;
   padding: 20px;
@@ -69,5 +67,8 @@ h3 {
 }
 
 .team-box img {
+  object-fit: cover;
   max-width: 200px;
+  height: 190px;
+  border-radius: 50%;
 }
