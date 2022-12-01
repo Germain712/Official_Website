@@ -63,7 +63,7 @@ h3 {
   color: white;
   border: 1px solid red;
   background-color: black;
-  /* opacity: 0.8; */
-  /* padding: 20px; */
+  opacity: 0.8;
+  padding: 20px;
   /* width: 400px; */
 }
