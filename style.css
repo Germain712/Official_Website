@@ -32,6 +32,7 @@ h3 {
 .about img {
   max-width: 450px;
   height: 400px;
+  object-fit: cover;
 }
 
 .about-us {
