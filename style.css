@@ -27,9 +27,14 @@ h3 {
 .about-box {
   margin: 30px;
   padding: 5px;
-  border: 1px solid red;
 }
 
 .about img {
   max-width: 450px;
+  height: 400px;
+}
+
+.about-us {
+  color: white;
+  text-align: center;
 }
