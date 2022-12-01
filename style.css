@@ -17,6 +17,11 @@ h3 {
   font-size: 30px;
 }
 
+.section-header {
+  color: white;
+  text-align: center;
+}
+
 .about {
   background-color: black;
   color: white;
@@ -37,11 +42,6 @@ h3 {
 
 .about p {
   line-height: 30px;
-  text-align: center;
-}
-
-.about-us {
-  color: white;
   text-align: center;
 }
 
