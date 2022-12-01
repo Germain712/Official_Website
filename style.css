@@ -52,7 +52,7 @@ h3 {
 }
 
 .the-team {
-  display: flex 1px solid red;
+  display: flex;
   border: 1px solid red;
 }
 
