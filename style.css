@@ -18,8 +18,16 @@ h3 {
 }
 
 .about {
-  background-color: #000000;
+  background-color: black;
   color: white;
+  display: flex;
+  padding: 175px;
+}
+
+.about-box {
+  margin: 30px;
+  padding: 5px;
+  border: 1px solid red;
 }
 
 .about img {
