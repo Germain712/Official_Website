@@ -47,4 +47,6 @@ h3 {
 
 .team {
   background-image: url("Imgs/mountain.jpg");
+  background-size: cover;
+  padding: 100px;
 }
