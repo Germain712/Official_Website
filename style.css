@@ -30,12 +30,21 @@ h3 {
 }
 
 .about img {
-  max-width: 450px;
-  height: 400px;
+  max-width: 420px;
+  height: 420px;
   object-fit: cover;
+}
+
+.about p {
+  line-height: 30px;
+  text-align: center;
 }
 
 .about-us {
   color: white;
   text-align: center;
+}
+
+.team {
+  background-image: url("Imgs/mountain.jpg");
 }
